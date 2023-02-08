@@ -1,1 +1,1 @@
-display content of directory and hidden ones
+current directory,hidden,iDs long
