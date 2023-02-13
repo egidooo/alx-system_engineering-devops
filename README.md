@@ -1,1 +1,1 @@
-print the current working directory
+shell redirections
